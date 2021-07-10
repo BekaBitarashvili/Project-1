@@ -1,0 +1,271 @@
+.container1 {
+	background-image: url(../images/tree.png);
+	height: 324px;
+	background-size: cover;
+	background-position: center;
+}
+.logo {
+	left: 0px;
+    top: 0px;
+    position: absolute;
+    width: 87px;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 1141px 0 139px;
+    cursor: pointer;
+}
+.home {
+	left: 664px;
+    top: 32px;
+    position: absolute;
+    width: 37px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+    color: #5863F8;
+}
+.rooms {
+	left: 749px;
+    top: 32px;
+    position: absolute;
+    width: 44px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+    color: #fff;;
+}
+.restaurant {
+	left: 853px;
+    top: 32px;
+    position: absolute;
+    width: 78px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+    color: #fff;
+}
+.about-us {
+	left: 978px;
+    top: 32px;
+    position: absolute;
+    width: 61px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+    color: #fff;
+}
+.blog {
+	left: 1087px;
+    top: 32px;
+    position: absolute;
+    width: 32px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+    color: #fff;
+}
+.contact {
+	left: 1168px;
+    top: 32px;
+    position: absolute;
+    width: 60px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 12px;
+    color: #fff;
+}
+.first-about-us {
+	left: 139px;
+    top: 146px;
+    position: absolute;
+    width: 195px;
+    line-height: 56px;
+    margin-top: -7px;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 42px;
+    color: #fff;
+}
+.text-div {
+	position: absolute;
+    width: 444px;
+    height: 388px;
+    left: 139px;
+    top: 452px;
+}
+.second-about-us {
+	left: 0px;
+    top: 0px;
+    position: absolute;
+    width: 71px;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 14px;
+    color: #5863F8;
+}
+.trust {
+	left: 0px;
+    top: 21px;
+    position: absolute;
+    width: 375px;
+    line-height: 56px;
+    margin-top: -7px;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 42px;
+}
+.p1 {
+	left: 0px;
+    top: 146px;
+    position: absolute;
+    width: 445px;
+    height: 78px;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 16px;
+}
+.p2 {
+	left: 0px;
+    top: 234px;
+    position: absolute;
+    width: 445px;
+    height: 84px;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 14px;
+}
+.button {
+	position: absolute;
+    width: 184px;
+    height: 50px;
+    left: 0px;
+    top: 338px;
+    background-color: #5863F8;
+}
+.p3 {
+	left: 45px;
+    top: 353px;
+    position: absolute;
+    width: 75px;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #fff;
+}
+.pic-div {
+	position: absolute;
+    width: 536px;
+    height: 461px;
+    left: 691px;
+    top: 414px;
+}
+.pic1 {
+	position: absolute;
+    width: 260px;
+    height: 185px;
+    left: 0px;
+    top: 0px;
+}
+.pic2 {
+	position: absolute;
+    width: 260px;
+    height: 185px;
+    left: 276px;
+    top: 0px;
+}
+.pic3 {
+	position: absolute;
+    width: 536px;
+    height: 260px;
+    left: 0px;
+    top: 201px;
+}
+.container2 {
+	background-image: url(../images/leaf.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+    width: 1349px;
+    height: 612px;
+    left: 0px;
+    top: 965px;
+}
+.third-about-us {
+	left: 139px;
+    top: 92px;
+    position: absolute;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 14px;
+    color: #5863F8;
+}
+.bring {
+	left: 139px;
+    top: 113px;
+    position: absolute;
+    width: 377px;
+    line-height: 56px;
+    margin-top: -7px;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 42px;
+    color: #fff;
+}
+.box1 {
+	background-color: #fff;
+	width: 260px;
+	height: 260px;
+	position: absolute;
+	left: 139px;
+	top: 262px;
+}
+.circle1 {
+	background-color: #5863F8;
+	width: 59px;
+	height: 58px;
+	border-radius: 50%;
+	position: absolute;
+	left: 100px;
+    top: 27px;
+}
+
+.box2 {
+	background-color: #fff;
+	width: 260px;
+	height: 260px;
+	position: absolute;
+	left: 415px;
+	top: 262px;
+}
+.box3 {
+	background-color: #fff;
+	width: 260px;
+	height: 260px;
+	position: absolute;
+	left: 691px;
+	top: 262px;
+}
+.box4 {
+	background-color: #fff;
+	width: 260px;
+	height: 260px;
+	position: absolute;
+	left: 967px;
+	top: 262px;
+}
