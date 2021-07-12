@@ -4,6 +4,7 @@
 	background-size: cover;
 	background-position: center;
 }
+
 .logo {
 	left: 0px;
     top: 0px;
@@ -244,6 +245,34 @@
 	left: 100px;
     top: 27px;
 }
+.hotel1 {
+    position: absolute;
+    width: 32.7px;
+    height: 32.7px;
+    left: 114px;
+    top: 40px;
+}
+.wifi {
+    left: 47px;
+    top: 100px;
+    position: absolute;
+    width: 167px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+}
+.last-p1 {
+    left: 20px;
+    top: 172px;
+    position: absolute;
+    width: 222px;
+    height: 62px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #B1B1B1;
+}
 
 .box2 {
 	background-color: #fff;
@@ -253,6 +282,43 @@
 	left: 415px;
 	top: 262px;
 }
+.circle2 {
+    background-color: #5863F8;
+    width: 59px;
+    height: 58px;
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 27px;
+}
+.hotel2 {
+    position: absolute;
+    width: 32.7px;
+    height: 32.7px;
+    left: 114px;
+    top: 40px;
+}
+.netflix {
+    left: 50px;
+    top: 100px;
+    position: absolute;
+    width: 167px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+}
+.last-p2 {
+    left: 20px;
+    top: 172px;
+    position: absolute;
+    width: 222px;
+    height: 62px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #B1B1B1;
+}
 .box3 {
 	background-color: #fff;
 	width: 260px;
@@ -261,6 +327,43 @@
 	left: 691px;
 	top: 262px;
 }
+.circle3 {
+    background-color: #5863F8;
+    width: 59px;
+    height: 58px;
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 27px;
+}
+.hotel3 {
+    position: absolute;
+    width: 32.7px;
+    height: 32.7px;
+    left: 114px;
+    top: 40px;
+}
+.chill {
+    left: 52px;
+    top: 100px;
+    position: absolute;
+    width: 167px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+}
+.last-p3 {
+    left: 20px;
+    top: 172px;
+    position: absolute;
+    width: 222px;
+    height: 62px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #B1B1B1;
+}
 .box4 {
 	background-color: #fff;
 	width: 260px;
@@ -268,4 +371,43 @@
 	position: absolute;
 	left: 967px;
 	top: 262px;
+}
+.circle4 {
+    background-color: #5863F8;
+    width: 59px;
+    height: 58px;
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 27px;
+}
+.hotel4 {
+    position: absolute;
+    width: 32.7px;
+    height: 32.7px;
+    left: 114px;
+    top: 40px;
+}
+.rooms2 {
+    left: 36px;
+    top: 100px;
+    position: absolute;
+    height: 52px;
+    width: 190px;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+}
+.last-p4 {
+    left: 20px;
+    top: 172px;
+    position: absolute;
+    width: 222px;
+    height: 62px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #B1B1B1;
 }
