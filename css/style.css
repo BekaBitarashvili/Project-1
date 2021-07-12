@@ -4,10 +4,9 @@
 	background-size: cover;
 	background-position: center;
 }
-
 .logo {
-	left: 0px;
-    top: 0px;
+	left: 139px;
+    top: 30px;
     position: absolute;
     width: 87px;
     text-align: left;
@@ -15,7 +14,7 @@
     font-weight: bold;
     font-size: 14px;
     color: #fff;
-    margin: 30px 1141px 0 139px;
+    /*margin: 30px 1141px 0 139px;*/
     cursor: pointer;
 }
 .home {
@@ -28,6 +27,7 @@
     font-weight: bold;
     font-size: 12px;
     color: #5863F8;
+    cursor: pointer;
 }
 .rooms {
 	left: 749px;
@@ -38,7 +38,8 @@
     font-family: Poppins;
     font-weight: bold;
     font-size: 12px;
-    color: #fff;;
+    color: #fff;
+    cursor: pointer;
 }
 .restaurant {
 	left: 853px;
@@ -50,6 +51,7 @@
     font-weight: bold;
     font-size: 12px;
     color: #fff;
+    cursor: pointer;
 }
 .about-us {
 	left: 978px;
@@ -61,6 +63,7 @@
     font-weight: bold;
     font-size: 12px;
     color: #fff;
+    cursor: pointer;
 }
 .blog {
 	left: 1087px;
@@ -72,6 +75,7 @@
     font-weight: bold;
     font-size: 12px;
     color: #fff;
+    cursor: pointer;
 }
 .contact {
 	left: 1168px;
@@ -83,6 +87,7 @@
     font-weight: bold;
     font-size: 12px;
     color: #fff;
+    cursor: pointer;
 }
 .first-about-us {
 	left: 139px;
@@ -154,6 +159,7 @@
     left: 0px;
     top: 338px;
     background-color: #5863F8;
+    cursor: pointer;
 }
 .p3 {
 	left: 45px;
@@ -164,6 +170,7 @@
     font-family: Poppins;
     font-size: 14px;
     color: #fff;
+    cursor: pointer;
 }
 .pic-div {
 	position: absolute;

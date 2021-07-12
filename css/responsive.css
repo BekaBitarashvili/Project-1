@@ -1,0 +1,93 @@
+@media (max-width: 800px) {
+	.home {
+		left: 35%;
+	}
+}
+@media (max-width: 800px) {
+	.rooms {
+		left: 43%;
+	}
+}
+@media (max-width: 800px) {
+	.restaurant {
+		left: 53%;
+	}
+}
+@media (max-width: 800px) {
+	.about-us {
+		left: 65%;
+	}
+}
+@media (max-width: 800px) {
+	.blog {
+		left: 75%;
+	}
+}
+@media (max-width: 800px) {
+	.contact {
+		left: 82%;
+	}
+}
+@media (max-width: 800px) {
+	.logo {
+		left: 5%;
+	}
+}
+@media (max-width: 800px) {
+	.first-about-us {
+		left: 5%;
+	}
+}
+@media (max-width: 800px) {
+	.text-div {
+		left: 5%;
+	}
+}
+@media (max-width: 800px) {
+	.pic-div {
+		left: 5%;
+		top: 140%;
+	}
+}
+@media (max-width: 800px) {
+	.container2 {
+		width: 100%;
+		top: 220%;
+	}
+}
+@media (max-width: 800px) {
+	.third-about-us {
+		left: 5%;
+	}
+}
+@media (max-width: 800px) {
+	.bring {
+		left: 5%;
+	}
+}
+@media (max-width: 800px) {
+	.box1 {
+		left: 10%;
+	}
+}
+@media (max-width: 800px) {
+	.box2 {
+		left: 10%;
+		top: 100%;
+		background-color: green;
+	}
+}
+@media (max-width: 800px) {
+	.box3 {
+		left: 10%;
+		top: 150%;
+		background-color: green;
+	}
+}
+@media (max-width: 800px) {
+	.box4 {
+		left: 10%;
+		top: 200%;
+		background-color: green;
+	}
+}
